@@ -12,6 +12,9 @@ Features 🚀
 Technologies Used 🛠️
 
 Spring Boot (Java)
+
 MySQL
+
 Thymeleaf
+
 Spring Data JPA
