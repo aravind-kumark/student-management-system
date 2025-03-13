@@ -10,6 +10,7 @@ Features 🚀
 ✅ User-Friendly Interface – Interactive UI designed with Thymeleaf
 
 Technologies Used 🛠️
+
 🔹 Spring Boot (Java) – Backend framework for building RESTful services
 🔹 Spring Data JPA – ORM framework for database interactions
 🔹 MySQL – Relational database for storing student data
